@@ -1,0 +1,25 @@
+{
+  "name": "vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mintcapybara924s/vite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mintcapybara924s/vite/issues"
+  },
+  "homepage": "https://github.com/mintcapybara924s/vite#readme",
+  "devDependencies": {
+    "vite": "^7.2.4"
+  }
+}
